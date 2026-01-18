@@ -1,5 +1,4 @@
 # <summary><strong>Hi :wave: , I'm Mercy!</strong></summary>
-I'm a Student at Universitas Klabat, North Sulawesi, Indonesia. </br>
 :mailbox: mercyysakka@gmail.com | 🌐[mercyysakka.vercel.app](https://mercyyulianasakka.vercel.app)
 
 # 💻 Tech Stacks:
